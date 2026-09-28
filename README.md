@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=200&section=header&text=Oumaima%20Bendjaj&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=200&section=header&text=Oumaima%20Bendjaj&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%" /> 
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Data+Science+%26+Smart+Analytics;Automating+AI+Solutions;AI+Agent+Developer&font=Fira+Code&center=true&width=900&height=60&color=9B30FF&vCenter=true&size=32&weight=700&pause=1500" />
