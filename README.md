@@ -1,40 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=200&section=header&text=Oumaima%20Bendjaj&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%26%20Data%20Scientist%20%E2%80%A2%20Seeking%20PFE%20Internship%20(January%202027)&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=200&section=header&text=Oumaima%20Bendjaj&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%" /> 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Data+Scientist;RAG+%7C+AI+Agents+%7C+LLMs;Computer+Vision+%7C+NLP+%7C+Machine+Learning;Data+Analytics+%26+Power+BI;Seeking+a+6-month+PFE+internship+-+January+2027&font=Fira+Code&center=true&width=900&height=60&color=9B30FF&vCenter=true&size=26&weight=700&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Data+Science+%26+Smart+Analytics;Automating+AI+Solutions;AI+Agent+Developer&font=Fira+Code&center=true&width=900&height=60&color=9B30FF&vCenter=true&size=32&weight=700&pause=1500" />
 </a>
 
 <br/>
 
-<a href="https://oumaimabendjaj.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-OumaimaBendjaj.github.io-4B0082?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/oumaimabendjaj/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:oumaima.bendjaj09@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=oumaima.bendjaj09@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-Master's student in **Computer Science & Artificial Intelligence (M2IA)** at the Faculty of Sciences Ibn Tofail (Kénitra, Morocco), passionate about **Machine Learning, Data Science and Generative AI systems**.
+Passionate **AI Engineer, Data Scientist & Data Analyst** focused on designing intelligent systems, autonomous AI agents, and scalable data-driven applications that solve real-world engineering and industrial challenges.
 
 🎯 **I am looking for a 6-month PFE (end-of-studies) internship starting January 2027**, where I can contribute to building reliable and scalable AI and data solutions.
+
+I enjoy transforming complex data into impactful solutions through:
 
 <div align="center">
 
 | 🤖 | 📊 | 🧠 | 👁️ | 💬 |
 |:---:|:---:|:---:|:---:|:---:|
-| **AI Agents & RAG** | **Data Analytics & BI** | **Machine Learning** | **Computer Vision** | **NLP & LLMs** |
+| **Agentic AI** | **Data Science** | **Deep Learning** | **Computer Vision** | **NLP & LLMs** |
 
 </div>
+
+I'm especially interested in building:
+
+- 🔹 **Intelligent AI workflows**
+- 🔹 **Multi-agent systems**
+- 🔹 **End-to-end automation pipelines**
+- 🔹 **Interactive analytics & decision-support platforms**
+- 🔹 **Industrial AI solutions**
+- 🔹 **Smart engineering assistants**
+
+I enjoy exploring emerging AI technologies, building innovative solutions, and continuously expanding my knowledge to create systems that are intelligent, reliable, and capable of delivering real-world impact.
 
 ---
 
@@ -134,35 +144,6 @@ Master's student in **Computer Science & Artificial Intelligence (M2IA)** at the
 
 ---
 
-## 💼 Professional Experience
-
-| Period | Role | Highlights |
-|---|---|---|
-| **Jun – Jul 2024** · Rabat | **Data Analyst Intern — ONCF** | Star-schema data warehouse, SQL data preparation, interactive Power BI dashboard (sales by period, train type, sales channel and region), DAX measures and KPIs |
-| **Aug 2023** · Kénitra | **Stock Management Application Developer Intern — ORMVAG** | Requirements analysis and specifications, database and data dictionary design, WinDev interfaces for items, suppliers and stock movements |
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| **🤖 Smart RAG Agent** | AI agent that searches PDFs or the Web, or answers directly, using an LLM to check whether the retrieved documents are relevant enough | Python · LangChain · LangGraph · RAG · Pinecone · Tavily |
-| **🦺 Worksite Safety Detector** | YOLO11 system detecting protective equipment (helmet, vest, gloves, mask, glasses, boots) on images and videos, with a Streamlit interface | Python · YOLO11 · OpenCV · Streamlit |
-| **📊 Customer Behavior Analytics** | Purchase behavior analysis of 4,000 customers: Python cleaning, SQL exploration and a Power BI dashboard highlighting the most profitable segments | Python · Pandas · SQL · PostgreSQL · Power BI · DAX |
-| **✍️ LinkedIn Post Generator** | Generative AI tool that learns the style of past LinkedIn posts and writes new ones in French or English from a given topic | Python · NLP · LLM · Prompt Engineering |
-| **💬 Sentiment Analysis of Amazon Reviews** | Positive/negative review classification with TF-IDF and Logistic Regression, real-time predictions through a Gradio interface | Python · Pandas · Scikit-learn · Gradio |
-
----
-
-## 🎓 Education
-
-- **Master in Computer Science & Artificial Intelligence (M2IA)** — Faculty of Sciences Ibn Tofail, Kénitra *(2025 – present)*
-- **Professional Bachelor in Computer Engineering & Digital Governance** — EST Kénitra *(2024 – 2025)*
-- **BTS in Information Systems Development** — EST Kénitra *(2022 – 2024, Très Bien)*
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -176,14 +157,6 @@ Master's student in **Computer Science & Artificial Intelligence (M2IA)** at the
 | Databases | PostgreSQL • MySQL • PL/SQL • MongoDB |
 
 </div>
-
----
-
-## 📬 Let's Connect
-
-I'm open to a **6-month PFE internship starting January 2027** in AI, Machine Learning and Data Science.
-
-📧 [oumaima.bendjaj09@gmail.com](mailto:oumaima.bendjaj09@gmail.com) · 🌐 [Portfolio](https://oumaimabendjaj.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/oumaimabendjaj/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=120&section=footer" width="100%" />
 
