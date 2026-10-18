@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=200&section=header&text=Oumaima%20Bendjaj&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Agent%20Developer&descAlignY=55&descSize=18" width="100%" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0d11,50:5a2a3a,100:2f161c&height=200&section=header&text=Oumaima%20Bendjaj&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20AI%20Agent%20Developer&descAlignY=55&descSize=18&descColor=f07096" width="100%" /> 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Data+Science+%26+Smart+Analytics;Automating+AI+Solutions;AI+Agent+Developer&font=Fira+Code&center=true&width=900&height=60&color=9B30FF&vCenter=true&size=32&weight=700&pause=1500" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Intelligent+AI+Systems;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Data+Science+%26+Smart+Analytics;Automating+AI+Solutions;AI+Agent+Developer&font=Fira+Code&center=true&width=900&height=60&color=F07096&vCenter=true&size=32&weight=700&pause=1500" />
 </a>
 
 <br/>
@@ -53,17 +53,17 @@ I enjoy exploring emerging AI technologies, building innovative solutions, and c
 **🤖 AI & Machine Learning**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-C2456F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-C2456F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-C2456F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-C2456F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-C2456F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-C2456F?style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-F07096?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/YOLO-F07096?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-F07096?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
@@ -90,7 +90,7 @@ I enjoy exploring emerging AI technologies, building innovative solutions, and c
   <img src="https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/DAX-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ETL-C2456F?style=for-the-badge" />
 </p>
 
 **🗄️ Databases & SQL**
@@ -134,11 +134,11 @@ I enjoy exploring emerging AI technologies, building innovative solutions, and c
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI%2FCD-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-C2456F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/UML-FF6600?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Merise-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Merise-C2456F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agile%20Scrum-6DB33F?style=for-the-badge" />
 </p>
 
@@ -158,7 +158,7 @@ I enjoy exploring emerging AI technologies, building innovative solutions, and c
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a002b,50:4b0082,100:2d004d&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c0d11,50:5a2a3a,100:2f161c&height=120&section=footer" width="100%" />
 
 <p align="center">
   <b>Building intelligent systems that connect AI, automation, and engineering.</b>
