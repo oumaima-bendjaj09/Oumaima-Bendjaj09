@@ -104,7 +104,6 @@ I enjoy exploring emerging AI technologies, building innovative solutions, and c
   <br/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
 </p>
 
@@ -154,7 +153,7 @@ I enjoy exploring emerging AI technologies, building innovative solutions, and c
 | Computer Vision | YOLO • OpenCV • Streamlit |
 | Data Analysis & BI Dashboards | Power BI • DAX • SQL • Excel |
 | Machine Learning & NLP | Scikit-learn • Hugging Face • Pandas |
-| Databases | PostgreSQL • MySQL • PL/SQL • MongoDB |
+| Databases | PostgreSQL • MySQL • PL/SQL |
 
 </div>
 
